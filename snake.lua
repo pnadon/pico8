@@ -1,3 +1,6 @@
+-- snake.lua
+-- Simplified, refactored version of https://www.lexaloffle.com/bbs/?tid=28162
+-- A snake game implemented for Pico8. A great way to introduce someone to coding!
 scale = 8
 addlength = 3
 size = 64
